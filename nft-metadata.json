@@ -1,0 +1,15 @@
+{
+    "attributes" : [ {
+      "handsome" : "true",
+      "learned" : "true",
+      "caring": "true"
+    }, {
+      "hardworking" : "true",
+      "tall" : "true",
+      "occupation" : "blockchain developer",
+      "location" : "nigeria"
+    } ],
+    "description" : "",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmRwx9i58eJLVoNRXSX3GSHWzWy32WKD98G5SVNFFzPxVJ",
+    "name" : "Franklyn"
+}
